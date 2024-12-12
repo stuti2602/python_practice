@@ -5,7 +5,7 @@ write a pyhton program that take a string as input and check if it is palindrome
 
 input : Enter a string : Madam
 output : The string is a Palindrome.
-
+"""
 
 def is_palindrome(input_string):
     right_pointer = (len(input_string)-1)
@@ -28,7 +28,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
 
 def is_palindrome(input_string):
 
