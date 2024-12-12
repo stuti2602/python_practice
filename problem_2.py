@@ -1,4 +1,5 @@
 """
+day_2 : problem_2 
 Ask the user to input a list of numbers, seperated by spaces.
 Convert the input into a list of intergers.
 Calculate the sum of all numbers in the list.
