@@ -9,7 +9,6 @@ display the total number of vowels found.
 
 input: Enter a string: OpenAI is awesome
 output:the number of vowels in the string is : 9
-
 """
 
 def count_of_vowels(string_input):
