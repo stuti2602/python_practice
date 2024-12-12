@@ -10,7 +10,6 @@ prints the result
 input: Enter a positive integer: 10
 
 output: The sum of odd numbers from 1 to 10 is 25
-
 """
 
 def sum_of_odd(n):
