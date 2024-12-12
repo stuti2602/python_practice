@@ -6,9 +6,10 @@ write a python program that calculates the factorial of a given positive integer
 Ask the user to input a positive integer.
 calculate the factorial of given number
 factorial of a number n is the product of all positive integers less than or equal to n.
-5 ! = 120
 if the user enters a non -positive number, display an appropriatemessage.
+
 input : Enter a positive integer: 5
+
 output : The factorial of 5 is 120
 """
 
