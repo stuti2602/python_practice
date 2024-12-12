@@ -1,4 +1,6 @@
 """
+day_3 : problem_3 
+
 write a pyhton program that asks user to input a number and prints the multiplication table for that number from 1 to 10.
 """
 
