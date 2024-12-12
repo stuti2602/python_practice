@@ -4,7 +4,7 @@ day_2 : problem_2
 Ask the user to input a list of numbers, seperated by spaces.
 Convert the input into a list of intergers.
 Calculate the sum of all numbers in the list.
-Print the result in the format: "The sum of numbers is [sum]."
+Print the result in the format: "The sum of numbers is [sum]"
 """
 
 def sum_of_list(convert_into_list):
